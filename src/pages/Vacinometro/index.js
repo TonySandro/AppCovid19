@@ -22,7 +22,7 @@ export default function Vacinometro() {
       </Header>
 
       <Header marginTop='4%'>
-        <Count>5492</Count>
+        <Count>7681</Count>
         <SubtitleCount>PESSOAS VACINADAS EM BOM JARDIM</SubtitleCount>
 
       </Header>
